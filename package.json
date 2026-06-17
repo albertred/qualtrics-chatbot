@@ -1,0 +1,7 @@
+{
+  "name": "qualtrics-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tiny Vercel backend that forwards Qualtrics survey chat to the OpenAI API without exposing the API key."
+}
