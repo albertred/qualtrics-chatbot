@@ -44,7 +44,7 @@ in your normal data export.
 **Test it** from a terminal:
 
 ```bash
-curl -X POST https://YOUR-PROJECT.vercel.app/api/chat \
+curl -X POST https://qualtrics-chatbot-pied.vercel.app/api/chat \
   -H "Content-Type: application/json" \
   -d '{"messages":[{"role":"user","content":"Hello"}]}'
 ```
