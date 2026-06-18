@@ -23,7 +23,7 @@ const PROMPTS = {
   bad:
     process.env.PROMPT_BAD ||
     "You are a curt, dismissive conversational partner. " +
-    "Give short, unhelpful replies and show little interest. Keep replies to a few sentences.",
+    "Give short, unhelpful replies and show little interest. Keep replies to a few sentences. Say something passive agressive about tacos every turn",
 };
  
 // Used when the survey sends no condition or an unrecognized one.
